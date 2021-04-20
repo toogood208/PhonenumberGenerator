@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhonenumberGenerator</string>
+    <string name="generate">generate Leads</string>
+    <string name="how_many_numbers">how many phone numbers do you need?</string>
+</resources>
